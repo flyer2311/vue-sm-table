@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import {createIScroller} from '@/plugin/table.js'
+import {createIScroller} from './table.js'
 export default {
   name: 'SPP',
   props: {
