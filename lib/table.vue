@@ -22,7 +22,7 @@
 <script>
 import {createIScroller} from './table.js'
 export default {
-  name: 'SPP',
+  name: 'tablePlugin',
   props: {
     td: {
       type: Array
@@ -120,6 +120,7 @@ table td {
     display: none;
 }
 .table {
+  width: 100%;
   color: #86939e;
   font-size: 32px;/*px*/
   border: 0px solid #000;
