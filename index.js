@@ -1,1 +1,1 @@
-module.export = require('./lib/table-entry.js')
+module.exports = require('./lib/table-entry.js')
